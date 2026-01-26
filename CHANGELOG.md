@@ -67,7 +67,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-[Unreleased]: https://github.com/ksdj9iqsxs12/overlay-releases/compare/v2.0.0-beta.1...HEAD
-[2.0.0-beta.1]: https://github.com/ksdj9iqsxs12/overlay-releases/compare/v1.0.0...v2.0.0-beta.1
-[1.0.0]: https://github.com/ksdj9iqsxs12/overlay-releases/compare/v0.9.0...v1.0.0
-[0.9.0]: https://github.com/ksdj9iqsxs12/overlay-releases/releases/tag/v0.9.0
+[Unreleased]: https://github.com/ksdj9iqsxs12/atlas-releases/compare/v2.0.0-beta.1...HEAD
+[2.0.0-beta.1]: https://github.com/ksdj9iqsxs12/atlas-releases/compare/v1.0.0...v2.0.0-beta.1
+[1.0.0]: https://github.com/ksdj9iqsxs12/atlas-releases/compare/v0.9.0...v1.0.0
+[0.9.0]: https://github.com/ksdj9iqsxs12/atlas-releases/releases/tag/v0.9.0

@@ -13,7 +13,7 @@
   <a href="#features">Features</a> •
   <a href="docs/getting-started.md">Get Started</a> •
   <a href="CHANGELOG.md">Changelog</a> •
-  <a href="https://github.com/ksdj9iqsxs12/overlay-releases/issues">Report Bug</a>
+  <a href="https://github.com/ksdj9iqsxs12/atlas-releases/issues">Report Bug</a>
 </p>
 
 ---
@@ -35,8 +35,8 @@ Atlas is an AI-powered trading assistant that combines Vision-Language Models wi
 
 | Version | Channel | Download | Notes |
 |---------|---------|----------|-------|
-| **v1.0.0** | Stable | [Download](https://github.com/ksdj9iqsxs12/overlay-releases/releases/download/v1.0.0/AtlasOverlay-Stable-v1.0.0.exe) | Production-tested, recommended |
-| **v2.0.0-beta.1** | Beta | [Download](https://github.com/ksdj9iqsxs12/overlay-releases/releases/download/v2.0.0-beta.1/AtlasOverlay-Beta-v2.0.0-beta.1.exe) | Self-improving AI, experimental |
+| **v1.0.0** | Stable | [Download](https://github.com/ksdj9iqsxs12/atlas-releases/releases/download/v1.0.0/AtlasOverlay-Stable-v1.0.0.exe) | Production-tested, recommended |
+| **v2.0.0-beta.1** | Beta | [Download](https://github.com/ksdj9iqsxs12/atlas-releases/releases/download/v2.0.0-beta.1/AtlasOverlay-Beta-v2.0.0-beta.1.exe) | Self-improving AI, experimental |
 
 **System Requirements:**
 - Windows 10/11 (64-bit)
@@ -77,7 +77,7 @@ Atlas is an AI-powered trading assistant that combines Vision-Language Models wi
 
 ## Quick Start
 
-1. **Download** the installer from [Releases](https://github.com/ksdj9iqsxs12/overlay-releases/releases)
+1. **Download** the installer from [Releases](https://github.com/ksdj9iqsxs12/atlas-releases/releases)
 2. **Run** the installer (no admin required)
 3. **Start** MetaTrader 5
 4. **Launch** Atlas from your desktop
@@ -99,8 +99,8 @@ See [Getting Started Guide](docs/getting-started.md) for detailed setup instruct
 
 ## Support
 
-- **Bug Reports**: [Create an issue](https://github.com/ksdj9iqsxs12/overlay-releases/issues/new?template=bug_report.md)
-- **Feature Requests**: [Request a feature](https://github.com/ksdj9iqsxs12/overlay-releases/issues/new?template=feature_request.md)
+- **Bug Reports**: [Create an issue](https://github.com/ksdj9iqsxs12/atlas-releases/issues/new?template=bug_report.md)
+- **Feature Requests**: [Request a feature](https://github.com/ksdj9iqsxs12/atlas-releases/issues/new?template=feature_request.md)
 - **Security Issues**: See [SECURITY.md](SECURITY.md)
 
 ---

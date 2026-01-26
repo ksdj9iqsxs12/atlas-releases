@@ -13,7 +13,7 @@ Before installing Overlay, ensure you have:
 
 ## Installation
 
-1. Download the latest version from the [Releases page](https://github.com/ksdj9iqsxs12/overlay-releases/releases)
+1. Download the latest version from the [Releases page](https://github.com/ksdj9iqsxs12/atlas-releases/releases)
 2. Run the installer (`AtlasOverlay-*.exe`)
 3. Follow the installation wizard
 4. Launch Overlay from your desktop shortcut
@@ -107,4 +107,4 @@ If you encounter issues:
 2. Verify your API key is correct
 3. Check your internet connection
 4. Review logs in the Settings menu
-5. [Report a bug](https://github.com/ksdj9iqsxs12/overlay-releases/issues/new?template=bug_report.md)
+5. [Report a bug](https://github.com/ksdj9iqsxs12/atlas-releases/issues/new?template=bug_report.md)

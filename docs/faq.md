@@ -145,14 +145,14 @@ This was a bug in early versions. Please update to the latest version where this
 
 ### Where can I get help?
 
-- [GitHub Issues](https://github.com/ksdj9iqsxs12/overlay-releases/issues) for bugs and features
+- [GitHub Issues](https://github.com/ksdj9iqsxs12/atlas-releases/issues) for bugs and features
 - Documentation in this repository
 - Community Discord (coming soon)
 
 ### How do I report a bug?
 
-Use our [bug report template](https://github.com/ksdj9iqsxs12/overlay-releases/issues/new?template=bug_report.md) on GitHub.
+Use our [bug report template](https://github.com/ksdj9iqsxs12/atlas-releases/issues/new?template=bug_report.md) on GitHub.
 
 ### How do I request a feature?
 
-Use our [feature request template](https://github.com/ksdj9iqsxs12/overlay-releases/issues/new?template=feature_request.md) on GitHub.
+Use our [feature request template](https://github.com/ksdj9iqsxs12/atlas-releases/issues/new?template=feature_request.md) on GitHub.

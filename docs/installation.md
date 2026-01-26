@@ -18,7 +18,7 @@
 
 ## Download
 
-1. Go to the [Releases page](https://github.com/ksdj9iqsxs12/overlay-releases/releases)
+1. Go to the [Releases page](https://github.com/ksdj9iqsxs12/atlas-releases/releases)
 2. Choose your version:
    - **Stable** (v1.x.x) - Recommended for live trading
    - **Beta** (v2.x.x-beta) - Latest features, may have bugs
