@@ -1,11 +1,11 @@
-# Overlay AI Trading
+# Atlas AI Trading
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ksdj9iqsxs12/overlay-releases/main/assets/logo.png" alt="Overlay Logo" width="120">
+  <img src="https://raw.githubusercontent.com/ksdj9iqsxs12/overlay-releases/main/assets/logo.png" alt="Atlas Logo" width="120">
 </p>
 
 <p align="center">
-  <strong>The Hybrid AI Overlay for Professional Traders</strong>
+  <strong>The Hybrid AI Trading Assistant for Professional Traders</strong>
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ---
 
-## What is Overlay?
+## What is Atlas?
 
-Overlay is an AI-powered trading assistant that combines Vision-Language Models with real-time chart analysis. It runs as a desktop overlay on Windows, connecting to MetaTrader 5 for live trading.
+Atlas is an AI-powered trading assistant that combines Vision-Language Models with real-time chart analysis. It runs as a desktop overlay on Windows, connecting to MetaTrader 5 for live trading.
 
 **Key Capabilities:**
 - **Neural Vision Analysis** - AI reads charts like a human, identifying patterns and liquidity zones
@@ -80,7 +80,7 @@ Overlay is an AI-powered trading assistant that combines Vision-Language Models 
 1. **Download** the installer from [Releases](https://github.com/ksdj9iqsxs12/overlay-releases/releases)
 2. **Run** the installer (no admin required)
 3. **Start** MetaTrader 5
-4. **Launch** Overlay from your desktop
+4. **Launch** Atlas from your desktop
 5. **Configure** your AI provider and API keys
 6. **Trade** - Chat with your AI or enable auto modes
 
@@ -107,7 +107,7 @@ See [Getting Started Guide](docs/getting-started.md) for detailed setup instruct
 
 ## License
 
-Overlay is proprietary software. See the End User License Agreement included with the download.
+Atlas is proprietary software. See the End User License Agreement included with the download.
 
 ---
 
