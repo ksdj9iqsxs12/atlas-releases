@@ -1,7 +1,7 @@
 # Atlas AI Trading
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ksdj9iqsxs12/overlay-releases/main/assets/logo.png" alt="Atlas Logo" width="120">
+  <img src="https://raw.githubusercontent.com/ksdj9iqsxs12/atlas-releases/main/assets/logo.png" alt="Atlas Logo" width="120">
 </p>
 
 <p align="center">
