@@ -25,7 +25,7 @@ What actually happened.
 If applicable, add screenshots to help explain your problem.
 
 ## Environment
-- **Overlay Version**: [e.g., v1.0.0, v2.0.0-beta.1]
+- **ATLAS Desktop App Version**: [e.g., v1.0.0, v2.0.0-beta.1]
 - **Windows Version**: [e.g., Windows 11 22H2]
 - **MetaTrader 5 Version**: [e.g., 5.0.4500]
 - **AI Provider**: [e.g., Ollama, Groq, OpenAI]

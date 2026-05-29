@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest an idea for Overlay
+about: Suggest an idea for ATLAS Desktop App
 title: '[FEATURE] '
 labels: enhancement
 assignees: ''
@@ -21,7 +21,7 @@ Describe how you would use this feature in your trading workflow.
 
 ## Priority
 How important is this feature to you?
-- [ ] Critical - Can't use Overlay effectively without it
+- [ ] Critical - Can't use ATLAS Desktop App effectively without it
 - [ ] High - Significantly improves my workflow
 - [ ] Medium - Nice to have
 - [ ] Low - Minor convenience
